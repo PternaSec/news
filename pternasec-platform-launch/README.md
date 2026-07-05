@@ -1,7 +1,7 @@
 ---
 title: "Lanzamiento oficial de PternaSec: La plataforma de ciberseguridad ofensiva"
 category: actualizacion
-date: "2026-07-05T00:00:00Z"
+date: "2026-07-05T05:10:00Z"
 read_time: "5 min"
 description: "PternaSec inicia sus operaciones. Una plataforma interactiva diseñada para explorar, simular y mitigar vulnerabilidades reales mediante contenedores efímeros y laboratorios prácticos."
 ---
